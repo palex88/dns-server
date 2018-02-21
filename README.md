@@ -14,3 +14,6 @@ Using `dig` will return the ip address that the DNS server says the domain is lo
 Notes:
 * Written in Python3, probably wont work in Python2.
 * Running on port `53`, at IP address `127.0.0.1`.
+
+
+[The RFC for DNS can be found here.](https://www.ietf.org/rfc/rfc1035.txt)
